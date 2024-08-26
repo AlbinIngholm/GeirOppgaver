@@ -1,0 +1,15 @@
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\bin\Debug\net8.0\Oppgave02.exe
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\bin\Debug\net8.0\Oppgave02.deps.json
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\bin\Debug\net8.0\Oppgave02.runtimeconfig.json
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\bin\Debug\net8.0\Oppgave02.dll
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\bin\Debug\net8.0\Oppgave02.pdb
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\obj\Debug\net8.0\Oppgave02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\obj\Debug\net8.0\Oppgave02.AssemblyInfoInputs.cache
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\obj\Debug\net8.0\Oppgave02.AssemblyInfo.cs
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\obj\Debug\net8.0\Oppgave02.csproj.CoreCompileInputs.cache
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\obj\Debug\net8.0\Oppgave02.sourcelink.json
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\obj\Debug\net8.0\Oppgave02.dll
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\obj\Debug\net8.0\refint\Oppgave02.dll
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\obj\Debug\net8.0\Oppgave02.pdb
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\obj\Debug\net8.0\Oppgave02.genruntimeconfig.cache
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave02\obj\Debug\net8.0\ref\Oppgave02.dll
