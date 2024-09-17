@@ -4,7 +4,7 @@ tall.Add(14);
 int sum = 0;
 int produkt = 1;
 
-foreach(int nummer in tall)
+foreach(int nummer in tall) // foreach løkke 
 {
     sum += nummer;
     produkt *= nummer;
