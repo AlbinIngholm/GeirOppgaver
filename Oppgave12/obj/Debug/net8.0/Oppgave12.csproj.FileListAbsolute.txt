@@ -1,0 +1,15 @@
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\bin\Debug\net8.0\Oppgave12.exe
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\bin\Debug\net8.0\Oppgave12.deps.json
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\bin\Debug\net8.0\Oppgave12.runtimeconfig.json
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\bin\Debug\net8.0\Oppgave12.dll
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\bin\Debug\net8.0\Oppgave12.pdb
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\obj\Debug\net8.0\Oppgave12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\obj\Debug\net8.0\Oppgave12.AssemblyInfoInputs.cache
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\obj\Debug\net8.0\Oppgave12.AssemblyInfo.cs
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\obj\Debug\net8.0\Oppgave12.csproj.CoreCompileInputs.cache
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\obj\Debug\net8.0\Oppgave12.sourcelink.json
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\obj\Debug\net8.0\Oppgave12.dll
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\obj\Debug\net8.0\refint\Oppgave12.dll
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\obj\Debug\net8.0\Oppgave12.pdb
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\obj\Debug\net8.0\Oppgave12.genruntimeconfig.cache
+C:\Users\albin\Documents\GeirOppgaver01\Oppgave12\obj\Debug\net8.0\ref\Oppgave12.dll
